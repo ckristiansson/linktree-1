@@ -2,4 +2,4 @@
 
 This is a simple but clean interface design for a linktree website.
 
-![screenshot](/assets/linktree1.jpg)
+![screenshot](/assets/linktree1.JPG)
